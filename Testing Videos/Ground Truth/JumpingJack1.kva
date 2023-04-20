@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.0.9.5</Producer>
+  <OriginalFilename>Jumping Jack 1</OriginalFilename>
+  <FullPath>C:\Users\ayush\Desktop\dissertation\Testing Videos\Jumping Jack 1.mp4</FullPath>
+  <ImageSize>480;640</ImageSize>
+  <Mirror>false</Mirror>
+  <AverageTimeStampsPerFrame>20</AverageTimeStampsPerFrame>
+  <CaptureFramerate>30.04329004329</CaptureFramerate>
+  <UserFramerate>30.04329004329</UserFramerate>
+  <FirstTimeStamp>0</FirstTimeStamp>
+  <SelectionStart>0</SelectionStart>
+  <TimeOrigin>0</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>100</Length>
+      <Segment>
+        <A>240;320</A>
+        <B>340;320</B>
+      </Segment>
+      <Origin>0;100</Origin>
+      <Axis>LineHorizontal</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>00000000-0000-0000-0000-000000000000</CalibrationDrawingId>
+    <Unit Abbreviation="px">Pixels</Unit>
+  </Calibration>
+  <Keyframes>
+    <Keyframe id="1715963b-a150-4901-a5c7-0bf8424a6e7c">
+      <Position UserTime="1.36">809</Position>
+      <Title>1.36</Title>
+      <Drawings>
+        <Pencil id="4b2d84e6-5008-4a56-aa12-41c925097cb3" name="Pencil 1">
+          <PointList Count="3">
+            <Point>316;540</Point>
+            <Point>317;540</Point>
+            <Point>316;593</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="9300686b-1d23-4a75-bbfa-db4a6bceb0ef">
+      <Position UserTime="2.20">1309</Position>
+      <Title>2.20</Title>
+      <Drawings>
+        <Pencil id="641b0e0e-f2e1-4982-afdb-03f8272ebbef" name="Pencil 2">
+          <PointList Count="3">
+            <Point>301;527</Point>
+            <Point>302;527</Point>
+            <Point>301;527</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="b134e3ae-d5fa-442f-8e99-418447c7fdf7">
+      <Position UserTime="3.06">1829</Position>
+      <Title>3.06</Title>
+      <Drawings>
+        <Pencil id="f7a0c615-27a0-4c9f-8c70-5379d9351bee" name="Pencil 3">
+          <PointList Count="4">
+            <Point>301;527</Point>
+            <Point>302;527</Point>
+            <Point>301;527</Point>
+            <Point>301;527</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="851fa661-d51a-43fe-9645-9c7aed34650f">
+      <Position UserTime="3.86">2309</Position>
+      <Title>3.86</Title>
+      <Drawings>
+        <Pencil id="892048a9-f156-49b9-aa48-3bdc66613461" name="Pencil 4">
+          <PointList Count="4">
+            <Point>301;527</Point>
+            <Point>302;527</Point>
+            <Point>301;527</Point>
+            <Point>301;527</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="d60fa427-70f7-4988-aa00-993a27795be5">
+      <Position UserTime="4.73">2829</Position>
+      <Title>4.73</Title>
+      <Drawings>
+        <Pencil id="a3e43e74-b657-4420-8e9c-e2ddb48badc5" name="Pencil 5">
+          <PointList Count="3">
+            <Point>301;526</Point>
+            <Point>302;526</Point>
+            <Point>301;526</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="cebc0856-d4dc-414d-889b-ab9372c43907">
+      <Position UserTime="5.62">3369</Position>
+      <Title>5.62</Title>
+      <Drawings>
+        <Pencil id="4a9ebb18-e3bf-4a0f-875f-350d5912840a" name="Pencil 6">
+          <PointList Count="4">
+            <Point>327;524</Point>
+            <Point>328;524</Point>
+            <Point>327;524</Point>
+            <Point>327;524</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="c061d18f-0d0e-4148-8f44-5fe8fb67f52d">
+      <Position UserTime="6.42">3849</Position>
+      <Title>6.42</Title>
+      <Drawings>
+        <Pencil id="3eac9831-eb54-4771-b069-186b35b5cb6e" name="Pencil 7">
+          <PointList Count="4">
+            <Point>323;523</Point>
+            <Point>324;523</Point>
+            <Point>323;523</Point>
+            <Point>323;523</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="c32abae4-f42c-4610-a34c-4fd31b9f29ee">
+      <Position UserTime="7.22">4329</Position>
+      <Title>7.22</Title>
+      <Drawings>
+        <Pencil id="667777e2-01ac-4909-ac0c-2b13973ba581" name="Pencil 8">
+          <PointList Count="3">
+            <Point>323;523</Point>
+            <Point>324;523</Point>
+            <Point>323;523</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="5c7b402f-b71b-4ae4-8171-7507887053b6">
+      <Position UserTime="8.12">4869</Position>
+      <Title>8.12</Title>
+      <Drawings>
+        <Pencil id="78efe528-f191-406f-a26a-9f63cd94992a" name="Pencil 9">
+          <PointList Count="3">
+            <Point>323;523</Point>
+            <Point>324;523</Point>
+            <Point>323;523</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="0bbcb5f0-9013-4b0f-b2fe-d2e7c454f423">
+      <Position UserTime="8.95">5370</Position>
+      <Title>8.95</Title>
+      <Drawings>
+        <Pencil id="1b0a7eaa-a686-4fc3-bd5d-377558d73140" name="Pencil 10">
+          <PointList Count="4">
+            <Point>323;523</Point>
+            <Point>324;523</Point>
+            <Point>323;523</Point>
+            <Point>323;523</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="ef65f022-d95e-4636-b181-6c8c2ccbcedc">
+      <Position UserTime="9.75">5850</Position>
+      <Title>9.75</Title>
+      <Drawings>
+        <Pencil id="63d6b841-c277-48dd-a83f-824a26d98883" name="Pencil 11">
+          <PointList Count="4">
+            <Point>321;524</Point>
+            <Point>322;524</Point>
+            <Point>321;524</Point>
+            <Point>321;524</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+    <Keyframe id="119e5946-82a7-4e44-a381-4a702759a9e5">
+      <Position UserTime="10.58">6350</Position>
+      <Title>10.58</Title>
+      <Drawings>
+        <Pencil id="a2ed2235-4785-4356-9fa7-cf3649321035" name="Pencil 12">
+          <PointList Count="3">
+            <Point>321;524</Point>
+            <Point>322;524</Point>
+            <Point>321;524</Point>
+          </PointList>
+          <DrawingStyle>
+            <Color Key="color">
+              <Value>255;100;149;237</Value>
+            </Color>
+            <PenSize Key="pen size">
+              <Value>10</Value>
+            </PenSize>
+            <PenShape Key="pen shape">
+              <Value>Solid</Value>
+            </PenShape>
+          </DrawingStyle>
+          <InfosFading>
+            <Enabled>true</Enabled>
+            <UseDefault>true</UseDefault>
+            <AlwaysVisible>false</AlwaysVisible>
+            <MasterFactor>1</MasterFactor>
+            <OpaqueFrames>1</OpaqueFrames>
+            <Frames>20</Frames>
+          </InfosFading>
+        </Pencil>
+      </Drawings>
+    </Keyframe>
+  </Keyframes>
+  <CoordinateSystem id="854f8be9-ca60-4136-aa27-7c540e5c2bf8" name="Coordinate system 1">
+    <Visible>false</Visible>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <Trackability />
+</KinoveaVideoAnalysis>
